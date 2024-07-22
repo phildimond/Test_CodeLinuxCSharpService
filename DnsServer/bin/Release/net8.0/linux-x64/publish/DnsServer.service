@@ -1,0 +1,10 @@
+[Unit]
+Description=Test service that does nothing but log stuff.
+
+[Service]
+ExecStart=/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/DnsServer
+WorkingDirectory=/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish
+User=phillip
+
+[Install]
+WantedBy=multi-user.target

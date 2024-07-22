@@ -1,0 +1,6 @@
+/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/appsettings.Development.json
+/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/appsettings.json
+/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/DnsServer.pdb
+/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/DnsServer.service
+/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/README.md
+/home/phillip/source/c#/DnsServer/DnsServer/bin/Release/net8.0/linux-x64/publish/DnsServer
